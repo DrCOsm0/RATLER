@@ -1,0 +1,21 @@
+ULTIBOARD DRILL REPORT
+
+Design: InputBoard
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                   LAMINATION
+InputBoard - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1  0.03937    PTH     41
+   2  0.00700    PTH     18
