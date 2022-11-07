@@ -1,0 +1,25 @@
+ULTIBOARD DRILL REPORT
+
+Design: MotorDriverfullboard
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                             LAMINATION
+MotorDriverfullboard - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   1.0000    PTH     32
+   2   0.5000    PTH     32
+   3   0.6400    PTH     24
+   4   0.7620    PTH     44
+   5   2.3000    PTH      8
+   6   0.1778    PTH     10

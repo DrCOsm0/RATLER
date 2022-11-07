@@ -17,5 +17,5 @@ DRILLFILE                                   LAMINATION
 InputBoard - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
 
 TOOL     SIZE   TYPE  COUNT
-   1  0.03937    PTH     41
-   2  0.00700    PTH     18
+   1  0.03937    PTH     83
+   2  0.00700    PTH     20
