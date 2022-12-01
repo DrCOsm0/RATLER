@@ -4,7 +4,7 @@
   (Folder "Design Resources"
     (Folder "Library")
     ("Allegro Netlist Directory" "allegro")
-    (File ".\library1.olb"
+    (File ".\basic.olb"
       (Type "Schematic Library"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
@@ -25,13 +25,11 @@
   (Folder "Logs")
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" ".\library1.olb")
-      (Select "Design Resources" ".\library1.olb" "3pin Dupont"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 574"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 597"))
       (Tab 0)))
   (MPSSessionName "mattr"))

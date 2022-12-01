@@ -1,14 +1,15 @@
 (ExpressProject "PowerBoard"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/06/22]")
-  (ProjectType "Analog or A/D Mixed Mode")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[11/30/22]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "..\pbc libraries\library1.olb"
+        (Type "Schematic Library"))
+      (File ".\library1.olb"
         (Type "Schematic Library")))
     ("Allegro Netlist Directory" "allegro")
     (DOCKED "TRUE")
-    (DOCKING_POSITION "59420")
+    (DOCKING_POSITION "59419")
     (NoModify)
     (File ".\powerboard.dsn"
       (Type "Schematic Design"))
@@ -27,6 +28,26 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (Folder "Logs")
   (PartMRUSelector
+    (Potentiometer
+      (FullPartName "Potentiometer.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("2x2 HighCurrent Connector"
+      (FullPartName "2x2 HighCurrent Connector.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    ("3pin Dupont"
+      (FullPartName "3pin Dupont.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (PT63XX
+      (FullPartName "PT63XX.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
+      (DeviceIndex "0"))
     (PolyFuse
       (FullPartName "PolyFuse.Normal")
       (LibraryName
@@ -34,11 +55,6 @@
       (DeviceIndex "0"))
     (AutoFuse
       (FullPartName "AutoFuse.Normal")
-      (LibraryName
-         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
-      (DeviceIndex "0"))
-    (PT63XX
-      (FullPartName "PT63XX.Normal")
       (LibraryName
          "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
       (DeviceIndex "0"))
@@ -58,53 +74,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\mattr\Documents\GitHub\RATLER\Board_RATLER\PowerBoard China\powerboard.dsn")
-      (Path "Design Resources"
-         "C:\Users\mattr\Documents\GitHub\RATLER\Board_RATLER\PowerBoard China\powerboard.dsn"
-         "SCHEMATIC1")
-      (Path "Design Resources"
-         "C:\Users\mattr\Documents\GitHub\RATLER\Board_RATLER\PowerBoard China\powerboard.dsn"
-         "Design Cache")
-      (Path "Design Resources" "Library"))
+      (Path "Design Resources" "Library")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 536"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 927 24 577")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path
-         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\POWERBOARD CHINA\POWERBOARD.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 927 24 577"))
-      (Path
-         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
-      (Package "PT63XX")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 927 24 577"))
-      (Path
-         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
-      (Package "AUTOFUSE")
-      (PartType "1"))
-    (Doc
-      (Type "COrPrmBrowserDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 927 24 577"))
-      (Path
-         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\PBC LIBRARIES\LIBRARY1.OLB")
-      (Package "POLYFUSE")
-      (PartType "1"))))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 574"))
+      (Tab 0))))
