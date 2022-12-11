@@ -1,0 +1,6 @@
+{ Using PSTWRITER 17.4.0 d001Dec-07-2022 at 03:35:00 }
+
+#1 ERROR(ORCAP-36064): Pin "GND.GND2" found in PACK_SHORT property on part "REG1" doesnt exist on the symbol. You need to specify a valid pin.
+#2 ERROR(ORCAP-36064): Pin "GND.GND2" found in PACK_SHORT property on part "REG2" doesnt exist on the symbol. You need to specify a valid pin.
+#3 ERROR(ORCAP-36064): Pin "GND.GND2" found in PACK_SHORT property on part "REG3" doesnt exist on the symbol. You need to specify a valid pin.
+#4 ERROR(ORCAP-36018): Netlisting cannot complete because of the errors listed above in the session log. Correct the errors and netlist design.
