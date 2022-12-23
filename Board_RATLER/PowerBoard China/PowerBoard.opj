@@ -1,6 +1,6 @@
 (ExpressProject "PowerBoard"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[12/07/22]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[12/11/22]")
   (Folder "Design Resources"
     (Folder "Library"
       (File "..\pbc libraries\library1.olb"
@@ -101,7 +101,12 @@
     (width_pages "100")
     (width_start "80")
     (width_End "80"))
-  (Folder "Layout")
+  (Folder "Layout"
+    (File ".\powerboardchina.brd"
+      (Type "Board File")
+      (OutputBoard ".\powerboardchina.brd")
+      (NetListPath "..\powerboard china")
+      (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\powerboard.drc"
       (Type "Report"))
@@ -176,22 +181,27 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\powerboard.dsn")
-      (Path "Design Resources" ".\powerboard.dsn" "Design Cache")
+      (Path "Design Resources"
+         "c:\users\mattr\documents\github\ratler\board_ratler\powerboard china\powerboard.dsn")
+      (Path "Design Resources"
+         "c:\users\mattr\documents\github\ratler\board_ratler\powerboard china\powerboard.dsn"
+         "Design Cache")
       (Path "Design Resources" "Library")
+      (Path "Layout")
       (Path "Outputs")
-      (Select "Design Resources" ".\powerboard.dsn" "Design Cache" "PT63XX"))
+      (Select "Design Resources"
+         "c:\users\mattr\documents\github\ratler\board_ratler\powerboard china\powerboard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 491"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 514"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 803 24 532")
-        (Scroll "0 0")
+        (Placement "44 0 1 -1 -1 5 24 5 1290 24 532")
+        (Scroll "218 327")
         (Zoom "111")
         (Occurrence "/"))
       (Path

@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : PowerBoardChina.brd                           )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun Dec 11 14:24:19 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China'
+Design Directory:            'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China'
+Old design name:             'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/PowerBoardChina.brd'
+New design name:             'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/PowerBoardChina.brd'
+
+CmdLine: netrev -$ -i C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China -y 1 -h -q netrev_constraint_report.xml C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/#Taaaaax10088.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstchip.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstchip.dat (00:00:00.01)
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstxprt.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstxnet.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/SPB_17.4/share/local/pcb/modules 
+
+PSMPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Dec 11 14:24:19 2022
+   DESIGN NAME : 'POWERBOARD'
+   PACKAGING ON Oct  7 2019 04:16:49
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:02
+elapsed time  0:00:01
+

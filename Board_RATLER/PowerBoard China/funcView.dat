@@ -1,0 +1,28 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/PowerBoardChina.brd!Sun Dec 11 16:48:08 2022!0.00!0.00!11000.00!8500.00!0.01!mils!POWERBOARD!10.400000 mil!2!UP TO DATE!
+S!@powerboard.schematic1(sch_1):ins833@analog.\c.normal\(chips)!C_SIP2_1U!C1!.\pstchip.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1187@analog.\c.normal\(chips)!C_SIP2_1U!C4!.\pstchip.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1265@analog.\c.normal\(chips)!C_SIP2_1U!C7!.\pstchip.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins849@analog.\c.normal\(chips)!C_SIP2_100N!C2!.\pstchip.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1203@analog.\c.normal\(chips)!C_SIP2_100N!C5!.\pstchip.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1281@analog.\c.normal\(chips)!C_SIP2_100N!C8!.\pstchip.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins865@analog.\c.normal\(chips)!C_SIP2_100U!C3!.\pstchip.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1219@analog.\c.normal\(chips)!C_SIP2_100U!C6!.\pstchip.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1297@analog.\c.normal\(chips)!C_SIP2_100U!C9!.\pstchip.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!CONNECTOR1!.\pstchip.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!CONNECTOR2!.\pstchip.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!CONNECTOR3!.\pstchip.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1067@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!CONNECTOR4!.\pstchip.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1097@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!CONNECTOR5!.\pstchip.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1127@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!CONNECTOR6!.\pstchip.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR!CONNECTOR7!.\pstchip.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins770@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!R1!.\pstchip.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins788@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!R2!.\pstchip.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins806@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!R3!.\pstchip.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!REG1!.\pstchip.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!REG2!.\pstchip.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!REG3!.\pstchip.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)!AUTOFUSE_BLADEFUSE_AUTOFUSE!U1!.\pstchip.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins337@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!U2!.\pstchip.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins361@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!U3!.\pstchip.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@powerboard.schematic1(sch_1):ins385@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!U4!.\pstchip.dat!!!!!!F0!!!!!!!!!!!!!!!!!!

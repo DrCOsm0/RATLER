@@ -1,0 +1,270 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Dec-11-2022 at 16:47:40 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='POWERBOARD';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS833@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins833@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins833@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS849@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins849@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins849@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_SIP2_100U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS865@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins865@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins865@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1187@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1187@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1187@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1203@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1203@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1203@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_SIP2_100U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1219@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1219@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1219@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1265@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1265@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1265@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1281@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1281@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1281@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_SIP2_100U':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1297@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1297@analog.\c.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1297@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR1 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS990@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins990@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR2 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1010@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1010@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR3 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1030@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1030@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR4 '3PIN_SIP3_3PIN DUPONT':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1067@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1067@dupont.\3pin.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1067@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR5 '3PIN_SIP3_3PIN DUPONT':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1097@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1097@dupont.\3pin.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1097@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR6 '3PIN_SIP3_3PIN DUPONT':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1127@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1127@dupont.\3pin.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1127@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR7 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS1582@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins1582@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'POTENTIOMETER_SIP3_POTENTIOMETER':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS770@BASIC.POTENTIOMETER.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins770@basic.\potentiometer.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins770@basic.\potentiometer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'POTENTIOMETER_SIP3_POTENTIOMETER':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS788@BASIC.POTENTIOMETER.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins788@basic.\potentiometer.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins788@basic.\potentiometer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'POTENTIOMETER_SIP3_POTENTIOMETER':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS806@BASIC.POTENTIOMETER.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins806@basic.\potentiometer.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins806@basic.\potentiometer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ REG1 'PT63XX_SIP12OFFSET_PT63XX':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS147@BASIC.PT63XX.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins147@basic.\pt63xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ REG2 'PT63XX_SIP12OFFSET_PT63XX':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS165@BASIC.PT63XX.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins165@basic.\pt63xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ REG3 'PT63XX_SIP12OFFSET_PT63XX':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS183@BASIC.PT63XX.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins183@basic.\pt63xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'AUTOFUSE_BLADEFUSE_AUTOFUSE':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS214@BASIC.AUTOFUSE.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins214@basic.\autofuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'POLYFUSE_1CMPOLYFUSE_POLYFUSE':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS337@BASIC.POLYFUSE.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins337@basic.\polyfuse.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins337@basic.\polyfuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'POLYFUSE_1CMPOLYFUSE_POLYFUSE':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS361@BASIC.POLYFUSE.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins361@basic.\polyfuse.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins361@basic.\polyfuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'POLYFUSE_1CMPOLYFUSE_POLYFUSE':;
+
+SECTION_NUMBER 1
+ '@POWERBOARD.SCHEMATIC1(SCH_1):INS385@BASIC.POLYFUSE.NORMAL(CHIPS)':
+ C_PATH='@powerboard.schematic1(sch_1):ins385@basic.\polyfuse.normal\(chips)',
+ P_PATH='@powerboard.schematic1(sch_1):page1_ins385@basic.\polyfuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

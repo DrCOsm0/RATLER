@@ -1,0 +1,100 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/PowerBoardChina.brd!Sun Dec 11 16:48:08 2022!0.00!0.00!11000.00!8500.00!0.01!mils!POWERBOARD!10.400000 mil!2!UP TO DATE!
+S!0!C1!1!@powerboard.schematic1(sch_1):ins833@analog.\c.normal\(chips)!C_SIP2_1U!!!F25!!!!!!!!!!
+S!N03186!C1!2!@powerboard.schematic1(sch_1):ins833@analog.\c.normal\(chips)!C_SIP2_1U!!!F25!!!!!!!!!!
+S!0!C4!1!@powerboard.schematic1(sch_1):ins1187@analog.\c.normal\(chips)!C_SIP2_1U!!!F24!!!!!!!!!!
+S!N02323!C4!2!@powerboard.schematic1(sch_1):ins1187@analog.\c.normal\(chips)!C_SIP2_1U!!!F24!!!!!!!!!!
+S!0!C7!1!@powerboard.schematic1(sch_1):ins1265@analog.\c.normal\(chips)!C_SIP2_1U!!!F23!!!!!!!!!!
+S!N01845!C7!2!@powerboard.schematic1(sch_1):ins1265@analog.\c.normal\(chips)!C_SIP2_1U!!!F23!!!!!!!!!!
+S!0!C2!1!@powerboard.schematic1(sch_1):ins849@analog.\c.normal\(chips)!C_SIP2_100N!!!F22!!!!!!!!!!
+S!N03425!C2!2!@powerboard.schematic1(sch_1):ins849@analog.\c.normal\(chips)!C_SIP2_100N!!!F22!!!!!!!!!!
+S!0!C5!1!@powerboard.schematic1(sch_1):ins1203@analog.\c.normal\(chips)!C_SIP2_100N!!!F21!!!!!!!!!!
+S!N02472!C5!2!@powerboard.schematic1(sch_1):ins1203@analog.\c.normal\(chips)!C_SIP2_100N!!!F21!!!!!!!!!!
+S!0!C8!1!@powerboard.schematic1(sch_1):ins1281@analog.\c.normal\(chips)!C_SIP2_100N!!!F20!!!!!!!!!!
+S!N01895!C8!2!@powerboard.schematic1(sch_1):ins1281@analog.\c.normal\(chips)!C_SIP2_100N!!!F20!!!!!!!!!!
+S!0!C3!1!@powerboard.schematic1(sch_1):ins865@analog.\c.normal\(chips)!C_SIP2_100U!!!F19!!!!!!!!!!
+S!N03425!C3!2!@powerboard.schematic1(sch_1):ins865@analog.\c.normal\(chips)!C_SIP2_100U!!!F19!!!!!!!!!!
+S!0!C6!1!@powerboard.schematic1(sch_1):ins1219@analog.\c.normal\(chips)!C_SIP2_100U!!!F18!!!!!!!!!!
+S!N02472!C6!2!@powerboard.schematic1(sch_1):ins1219@analog.\c.normal\(chips)!C_SIP2_100U!!!F18!!!!!!!!!!
+S!0!C9!1!@powerboard.schematic1(sch_1):ins1297@analog.\c.normal\(chips)!C_SIP2_100U!!!F17!!!!!!!!!!
+S!N01895!C9!2!@powerboard.schematic1(sch_1):ins1297@analog.\c.normal\(chips)!C_SIP2_100U!!!F17!!!!!!!!!!
+S!0!CONNECTOR1!1!@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F16!!!!!!!!!!
+S!0!CONNECTOR1!2!@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F16!!!!!!!!!!
+S!N03425!CONNECTOR1!3!@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F16!!!!!!!!!!
+S!N03425!CONNECTOR1!4!@powerboard.schematic1(sch_1):ins990@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F16!!!!!!!!!!
+S!0!CONNECTOR2!1!@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F15!!!!!!!!!!
+S!0!CONNECTOR2!2!@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F15!!!!!!!!!!
+S!N02472!CONNECTOR2!3!@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F15!!!!!!!!!!
+S!N02472!CONNECTOR2!4!@powerboard.schematic1(sch_1):ins1010@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F15!!!!!!!!!!
+S!0!CONNECTOR3!1!@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F14!!!!!!!!!!
+S!0!CONNECTOR3!2!@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F14!!!!!!!!!!
+S!N01895!CONNECTOR3!3!@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F14!!!!!!!!!!
+S!N01895!CONNECTOR3!4!@powerboard.schematic1(sch_1):ins1030@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR!!!F14!!!!!!!!!!
+S!0!CONNECTOR4!1!@powerboard.schematic1(sch_1):ins1067@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F13!!!!!!!!!!
+S!N03723!CONNECTOR4!2!@powerboard.schematic1(sch_1):ins1067@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F13!!!!!!!!!!
+S!N03425!CONNECTOR4!3!@powerboard.schematic1(sch_1):ins1067@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F13!!!!!!!!!!
+S!0!CONNECTOR5!1!@powerboard.schematic1(sch_1):ins1097@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F12!!!!!!!!!!
+S!N02465!CONNECTOR5!2!@powerboard.schematic1(sch_1):ins1097@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F12!!!!!!!!!!
+S!N02472!CONNECTOR5!3!@powerboard.schematic1(sch_1):ins1097@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F12!!!!!!!!!!
+S!0!CONNECTOR6!1!@powerboard.schematic1(sch_1):ins1127@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F11!!!!!!!!!!
+S!N01970!CONNECTOR6!2!@powerboard.schematic1(sch_1):ins1127@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F11!!!!!!!!!!
+S!N01895!CONNECTOR6!3!@powerboard.schematic1(sch_1):ins1127@dupont.\3pin.normal\(chips)!3PIN_SIP3_3PIN DUPONT!!!F11!!!!!!!!!!
+S!N01796!CONNECTOR7!1!@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR!!!F10!!!!!!!!!!
+S!N01796!CONNECTOR7!2!@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR!!!F10!!!!!!!!!!
+S!0!CONNECTOR7!3!@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR!!!F10!!!!!!!!!!
+S!0!CONNECTOR7!4!@powerboard.schematic1(sch_1):ins1582@basic.\2x2highcurrentconnector.normal\(chips)!2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2 HIGHCURRENT CONNECTOR!!!F10!!!!!!!!!!
+S!!R1!3!@powerboard.schematic1(sch_1):ins770@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F9!!!!!!!!!!
+S!N03730!R1!2!@powerboard.schematic1(sch_1):ins770@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F9!!!!!!!!!!
+S!N03723!R1!1!@powerboard.schematic1(sch_1):ins770@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F9!!!!!!!!!!
+S!!R2!3!@powerboard.schematic1(sch_1):ins788@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F8!!!!!!!!!!
+S!N02689!R2!2!@powerboard.schematic1(sch_1):ins788@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F8!!!!!!!!!!
+S!N02465!R2!1!@powerboard.schematic1(sch_1):ins788@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F8!!!!!!!!!!
+S!!R3!3!@powerboard.schematic1(sch_1):ins806@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F7!!!!!!!!!!
+S!N01966!R3!2!@powerboard.schematic1(sch_1):ins806@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F7!!!!!!!!!!
+S!N01970!R3!1!@powerboard.schematic1(sch_1):ins806@basic.\potentiometer.normal\(chips)!POTENTIOMETER_SIP3_POTENTIOMETER!!!F7!!!!!!!!!!
+S!N03730!REG1!12!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!!REG1!1!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!0!REG1!5!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!0!REG1!6!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!0!REG1!7!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!0!REG1!8!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03186!REG1!2!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03186!REG1!3!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03186!REG1!4!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03425!REG1!9!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03425!REG1!10!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N03425!REG1!11!@powerboard.schematic1(sch_1):ins147@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F6!!!!!!!!!!
+S!N02689!REG2!12!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!!REG2!1!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!0!REG2!5!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!0!REG2!6!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!0!REG2!7!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!0!REG2!8!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02323!REG2!2!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02323!REG2!3!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02323!REG2!4!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02472!REG2!9!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02472!REG2!10!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N02472!REG2!11!@powerboard.schematic1(sch_1):ins165@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F5!!!!!!!!!!
+S!N01966!REG3!12!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!!REG3!1!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!0!REG3!5!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!0!REG3!6!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!0!REG3!7!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!0!REG3!8!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01845!REG3!2!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01845!REG3!3!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01845!REG3!4!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01895!REG3!9!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01895!REG3!10!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01895!REG3!11!@powerboard.schematic1(sch_1):ins183@basic.\pt63xx.normal\(chips)!PT63XX_SIP12OFFSET_PT63XX!!!F4!!!!!!!!!!
+S!N01796!U1!1!@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)!AUTOFUSE_BLADEFUSE_AUTOFUSE!!!F3!!!!!!!!!!
+S!N01796!U1!2!@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)!AUTOFUSE_BLADEFUSE_AUTOFUSE!!!F3!!!!!!!!!!
+S!N01838!U1!4!@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)!AUTOFUSE_BLADEFUSE_AUTOFUSE!!!F3!!!!!!!!!!
+S!N01838!U1!3!@powerboard.schematic1(sch_1):ins214@basic.\autofuse.normal\(chips)!AUTOFUSE_BLADEFUSE_AUTOFUSE!!!F3!!!!!!!!!!
+S!N01838!U2!1!@powerboard.schematic1(sch_1):ins337@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F2!!!!!!!!!!
+S!N03186!U2!2!@powerboard.schematic1(sch_1):ins337@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F2!!!!!!!!!!
+S!N01838!U3!1!@powerboard.schematic1(sch_1):ins361@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F1!!!!!!!!!!
+S!N02323!U3!2!@powerboard.schematic1(sch_1):ins361@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F1!!!!!!!!!!
+S!N01838!U4!1!@powerboard.schematic1(sch_1):ins385@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F0!!!!!!!!!!
+S!N01845!U4!2!@powerboard.schematic1(sch_1):ins385@basic.\polyfuse.normal\(chips)!POLYFUSE_1CMPOLYFUSE_POLYFUSE!!!F0!!!!!!!!!!

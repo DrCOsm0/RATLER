@@ -1,0 +1,27 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DRC Update                                                       )
+(                                                                     )
+(    Drawing          : PowerBoardChina.brd                           )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Fri Dec 16 22:58:03 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ========= check       1 shapes                       0:00:00
+ ========= check       0 standalone pins              0:00:00
+ ========= check       6 symbols (pins,lines,text)    0:00:00
+ ========= check       0 xnets                        0:00:00
+ ========= check      15 nets                         0:00:00
+ ========= check       0 standalone branches          0:00:00
+ ========= check       0 standalone filled rectangles 0:00:00
+ ========= check       0 standalone lines             0:00:00
+ ========= check       0 standalone text              0:00:00
+ ========= check       0 standalone rectangles        0:00:00
+
+ ..... Total number of DRC errors  0
+
+ ..... DRC update completed, total CPU time   0:00:00
+ *************************************************************************
+

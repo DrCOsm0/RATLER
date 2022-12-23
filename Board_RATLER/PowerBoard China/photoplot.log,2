@@ -1,0 +1,228 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : PowerBoardChina.brd                           )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sat Dec 17 00:03:52 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+ WARNING: Generating metric output data from an english database
+ may cause slight roundoff error of coordinates in output file.
+
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+  CIRCLE     3.30200                                  DARK 
+  CIRCLE     4.31800                                  DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.76200                                  DARK 
+  CIRCLE     1.27000                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+  CIRCLE     3.30200                                  DARK 
+  CIRCLE     3.81000                                  DARK 
+  CIRCLE     4.31800                                  DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SOLDERMASK >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/TOP_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     2.28600                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+  CIRCLE     3.30200                                  DARK 
+
+     TOP_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM_SOLDERMASK >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/BOTTOM_SOLDERMASK.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     2.54000                                  DARK 
+
+     BOTTOM_SOLDERMASK created with warnings
+
+
+================================================================
+     PROCESSING FILM < TOP_SILKSCREEN >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/TOP_SILKSCREEN.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (4625.00 3050.00) in MIL
+           ... using undefined line width of 4.00 MIL
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 4.00 MIL
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10160                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     TOP_SILKSCREEN created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/PowerBoard China/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                4.00 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = MM):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10160                                  DARK 
+
+     OUTLINE created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        TOP_SOLDERMASK created with warnings
+        BOTTOM_SOLDERMASK created with warnings
+        TOP_SILKSCREEN created with warnings
+        OUTLINE created with warnings
+
+ ARTWORK had warnings
