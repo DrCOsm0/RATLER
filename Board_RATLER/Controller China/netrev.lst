@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : Controller.brd                                )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Jan  4 10:43:33 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro'
+Design Directory:            'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China'
+Old design name:             'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/Controller.brd'
+New design name:             'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/Controller.brd'
+
+CmdLine: netrev -$ -i C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro -y 1 -h -q netrev_constraint_report.xml C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/#Taaaacb40716.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstchip.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstchip.dat (00:00:00.03)
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstxprt.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstxnet.dat 
+   Finished reading C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/Controller China/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/cadence/spb_17.4/share/local/pcb/modules 
+
+PSMPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/symbols 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/cadence/spb_17.4/share/local/pcb/padstacks 
+           c:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           c:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jan 4 10:43:33 2023
+   DESIGN NAME : 'CONTROLLER'
+   PACKAGING ON Oct  7 2019 04:16:49
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:20
+elapsed time  0:00:01
+

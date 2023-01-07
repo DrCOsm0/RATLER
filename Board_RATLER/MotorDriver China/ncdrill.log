@@ -1,0 +1,62 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : MotorDriver.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Mon Jan  2 14:09:31 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-358): Design precision is the same as that of the drill output file data.
+ WARNING(SPMHMF-359): Data rounding errors may still be possible.
+
+
+ Drill files being output to directory 'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/MotorDriver China' ...
+
+
+
+     'MotorDriver-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  13.0000    0.0000/  0.0000      PLATED         11
+            2.  40.1600    0.0000/  0.0000      PLATED        112
+            3.  60.0000    0.0000/  0.0000      PLATED          4
+            4.  70.0000    0.0000/  0.0000      PLATED         12
+            5. 100.0000    0.0000/  0.0000      PLATED          8
+            6. 118.0000    0.0000/  0.0000      PLATED          3
+            7. 150.0000    0.0000/  0.0000      PLATED          6
+
+     ---- Total holes:                                        156
+
+     ---- Total head travel:              9.79 feet (2.98 meters)
+

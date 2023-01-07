@@ -1,0 +1,70 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : MotorDriver.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Mon Jan  2 14:42:02 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/MotorDriver China/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.00
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.00
+  Offset y:                           0.00
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.09000                                  DARK 
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.13000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.17000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        BOTTOM created.
+
+ ARTWORK finished

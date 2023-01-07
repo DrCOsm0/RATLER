@@ -1,0 +1,120 @@
+(ExpressProject "MotorDriver"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[01/02/23]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory"
+       "C:\Users\mattr\Documents\GitHub\RATLER\Board_RATLER\MotorDriver China")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\motordriver.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\motordriver.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\motordriver.brd"
+      (Type "Board File")
+      (OutputBoard ".\motordriver.brd")
+      (NetListPath "..\motordriver china")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (2x10Pin
+      (FullPartName "2x10Pin.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\PCB-LIBRARIES-AND-FOOTPRINTS\ORCAD LIBRARIES\LIBRARIES\DUPONT.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LMD18200T
+      (FullPartName "LMD18200T.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\PCB-LIBRARIES-AND-FOOTPRINTS\ORCAD LIBRARIES\LIBRARIES\BASIC.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (AutoFuse
+      (FullPartName "AutoFuse.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\PCB-LIBRARIES-AND-FOOTPRINTS\ORCAD LIBRARIES\LIBRARIES\BASIC.OLB")
+      (DeviceIndex "0"))
+    (2x2HighCurrentConnector
+      (FullPartName "2x2HighCurrentConnector.Normal")
+      (LibraryName
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\PCB-LIBRARIES-AND-FOOTPRINTS\ORCAD LIBRARIES\LIBRARIES\BASIC.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Layout")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 514"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1084 24 532")
+        (Scroll "-189 10")
+        (Zoom "69")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MATTR\DOCUMENTS\GITHUB\RATLER\BOARD_RATLER\MOTORDRIVER CHINA\MOTORDRIVER.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\mattr\Documents\GitHub\PCB-Libraries-and-footprints\OrCAD Libraries\Libraries")
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "mattr"))

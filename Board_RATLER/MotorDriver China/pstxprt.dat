@@ -1,0 +1,340 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Jan-01-2023 at 11:47:25 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MOTORDRIVER';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS594@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins594@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins594@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1372@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1372@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1372@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3265@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3265@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3265@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3281@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3281@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3281@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'C_LARGECAP_470M':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3297@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3297@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3297@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3333@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3333@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3333@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3353@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3353@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3353@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3466@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3466@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3466@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3482@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3482@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3482@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'C_LARGECAP_470M':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3498@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3498@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3498@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3534@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3534@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3534@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS610@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins610@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins610@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3554@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3554@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3554@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'C_LARGECAP_470M':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS9846@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins9846@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins9846@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS839@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins839@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins839@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS865@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins865@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins865@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_SIP2_100N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1308@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1308@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1308@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_SIP2_1U':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1324@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1324@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1324@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_LARGECAP_470M':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1340@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1340@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1340@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_SIP2_10N':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1356@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1356@analog.\c.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1356@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR1 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS30@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins30@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins30@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR2 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS50@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins50@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins50@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR3 '2X2HIGHCURRENTCONNECTOR_4PINMOLEX_2X2HIGHCURRENTCONNECTOR':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS70@BASIC.2X2HIGHCURRENTCONNECTOR.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins70@basic.\2x2highcurrentconnector.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins70@basic.\2x2highcurrentconnector.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR4 '2X10PIN_DIP2X10_2X10PIN':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1036@DUPONT.2X10PIN.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1036@dupont.\2x10pin.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1036@dupont.\2x10pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DRIVER1 'LMD18200T_LMD18200T_LMD18200T':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS180@BASIC.LMD18200T.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins180@basic.\lmd18200t.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins180@basic.\lmd18200t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DRIVER2 'LMD18200T_LMD18200T_LMD18200T':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS214@BASIC.LMD18200T.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins214@basic.\lmd18200t.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins214@basic.\lmd18200t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DRIVER3 'LMD18200T_LMD18200T_LMD18200T':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS248@BASIC.LMD18200T.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins248@basic.\lmd18200t.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins248@basic.\lmd18200t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DRIVER4 'LMD18200T_LMD18200T_LMD18200T':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS282@BASIC.LMD18200T.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins282@basic.\lmd18200t.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins282@basic.\lmd18200t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_1CMRESISTOR_2.2K':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS789@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins789@analog.\r.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins789@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_1CMRESISTOR_2.2K':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS1434@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins1434@analog.\r.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins1434@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_1CMRESISTOR_2.2K':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3317@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3317@analog.\r.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3317@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_1CMRESISTOR_2.2K':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS3518@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins3518@analog.\r.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins3518@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'AUTOFUSE_BLADEFUSE_AUTOFUSE':;
+
+SECTION_NUMBER 1
+ '@MOTORDRIVER.SCHEMATIC1(SCH_1):INS107@BASIC.AUTOFUSE.NORMAL(CHIPS)':
+ C_PATH='@motordriver.schematic1(sch_1):ins107@basic.\autofuse.normal\(chips)',
+ P_PATH='@motordriver.schematic1(sch_1):page1_ins107@basic.\autofuse.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

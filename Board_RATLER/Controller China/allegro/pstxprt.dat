@@ -1,0 +1,210 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Jan-04-2023 at 10:43:08 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='CONTROLLER';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ CONNECTOR1 '2X2PIN_DIP2X2_2X2PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS516@DUPONT.2X2PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins516@dupont.\2x2pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins516@dupont.\2x2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR10 '2PIN_SIP2_2PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2702@DUPONT.2PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2702@dupont.\2pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2702@dupont.\2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR11 '3PIN_SIP3_3PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3268@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3268@dupont.\3pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3268@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR12 '1PIN_SIP1_1PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3309@DUPONT.1PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3309@dupont.\1pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3309@dupont.\1pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR13 '1PIN_SIP1_1PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3323@DUPONT.1PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3323@dupont.\1pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3323@dupont.\1pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR14 '1PIN_SIP1_1PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3337@DUPONT.1PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3337@dupont.\1pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3337@dupont.\1pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR15 '3PIN_SIP3_3PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3362@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3362@dupont.\3pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3362@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR16 '3PIN_SIP3_3PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3380@DUPONT.3PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3380@dupont.\3pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3380@dupont.\3pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR17 '4PIN_SIP4_4PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3411@DUPONT.4PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3411@dupont.\4pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3411@dupont.\4pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR18 '6PIN_SIP6_6PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS3448@DUPONT.6PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins3448@dupont.\6pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins3448@dupont.\6pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR2 '5PIN_SIP5_5PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS551@DUPONT.5PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins551@dupont.\5pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins551@dupont.\5pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR3 '7PIN_SIP7_7PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS592@DUPONT.7PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins592@dupont.\7pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins592@dupont.\7pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR4 '6PIN_SIP6_6PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS635@DUPONT.6PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins635@dupont.\6pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins635@dupont.\6pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR5 '2PIN_SIP2_2PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2361@DUPONT.2PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2361@dupont.\2pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2361@dupont.\2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR6 '6PIN_SIP6_6PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2579@DUPONT.6PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2579@dupont.\6pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2579@dupont.\6pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR7 '1PIN_SIP1_1PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2649@DUPONT.1PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2649@dupont.\1pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2649@dupont.\1pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR8 '1PIN_SIP1_1PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2663@DUPONT.1PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2663@dupont.\1pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2663@dupont.\1pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ CONNECTOR9 '2PIN_SIP2_2PIN':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS2686@DUPONT.2PIN.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins2686@dupont.\2pin.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins2686@dupont.\2pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MC1 'ATMEGA328P_ATMEGA328P_ATMEGA328P':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS78@BASIC.ATMEGA328P.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins78@basic.\atmega328p.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins78@basic.\atmega328p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MC2 'RPI4_RPI4_RPI4':;
+
+SECTION_NUMBER 1
+ '@CONTROLLER.SCHEMATIC1(SCH_1):INS231@BASIC.RPI4.NORMAL(CHIPS)':
+ C_PATH='@controller.schematic1(sch_1):ins231@basic.\rpi4.normal\(chips)',
+ P_PATH='@controller.schematic1(sch_1):page1_ins231@basic.\rpi4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

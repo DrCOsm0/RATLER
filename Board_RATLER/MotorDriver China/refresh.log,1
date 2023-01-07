@@ -1,0 +1,102 @@
+Sun Jan  1 10:45:59 2023				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Jan  1 10:45:59 2023
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : MotorDriver.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sun Jan  1 10:46:00 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Jan  1 10:46:00 2023				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/mattr/Documents/GitHub/RATLER/Board_RATLER/MotorDriver China/MotorDriver.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+
+PADPATH =  C:/Users/mattr/Documents/GitHub/PCB-Libraries-and-footprints/OrCAD Libraries/Libraries 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.4/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.4/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.4/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+
+'4PINMOLEX'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, '4PINMOLEX': 'Cannot modify element; the object or a parent has the FIXED property.~
+      [help]'.
+     
+'DIP2X10'  symbol refreshed successfully.
+'1CMRESISTOR'  symbol refreshed successfully.
+
+'BLADEFUSE'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'BLADEFUSE': 'Cannot modify element; the object or a parent has the FIXED property.~
+      [help]'.
+     
+'SIP2'  symbol refreshed successfully.
+
+'LARGECAP'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'LARGECAP': 'Cannot modify element; the object or a parent has the FIXED property. ~
+     [help]'.
+     
+
+'LMD18200T'  symbol starting to refresh:
+     ERROR(SPMHDB-243): Cannot modify element; the object or a parent has the FIXED property. [help]
+     ERROR(SPMHNI-254): Unable to load symbol, 'LMD18200T': 'Cannot modify element; the object or a parent has the FIXED property.~
+      [help]'.
+     
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 3 out 7
+    Design updated.
+
